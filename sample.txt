@@ -7,3 +7,6 @@ sum=a+b;
 printf("the sum is %",&sum);
 return 0;
 }
+
+
+haii how are you?
