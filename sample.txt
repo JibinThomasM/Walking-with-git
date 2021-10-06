@@ -2,6 +2,7 @@
 int main()
 {
 int a=10,b=20,sum=0;
+printf("the numbers are %d%d",&a,&b)
 sum=a+b;
 printf("the sum is %",&sum);
 return 0;
